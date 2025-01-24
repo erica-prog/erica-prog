@@ -5,7 +5,7 @@
 - 😄 I studied **Bachelor's in Science: Economics**.
 - 🔭 I’m currently working on **data projects**. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/erica-prog/portfolio](https://github.com/erica-prog/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/erica-prog/portfolio](https://github.com/erica-prog/portfolio) .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
