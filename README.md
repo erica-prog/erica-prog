@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erika</h1>
+<h1 align="center">Hi, I'm Erika 👋</h1>
 <h3 align="center">A passionate aspiring data scientist, researcher, data analyst </h3>
 
 - 🌱 I’m currently studying **Master's in Data Science**.
