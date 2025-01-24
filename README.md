@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Erika</h1>
 <h3 align="center">A passionate aspiring data scientist, data analyst or data consultant </h3>
 
-- 🌱 I’m currently learning **MS Data Science**
+- 🌱 I’m currently studying **Masters in Data Science**.
+- 😄 I studied **Bachelor in Science: Economics**.
 - 🔭 I’m currently working on **data projects**. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/erica-prog/portfolio](https://github.com/erica-prog/portfolio)
