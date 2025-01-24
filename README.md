@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erika</h1>
 <h3 align="center">A passionate aspiring data scientist, data analyst or data consultant </h3>
 
-- 🌱 I’m currently studying **Masters in Data Science**.
-- 😄 I studied **Bachelor in Science: Economics**.
+- 🌱 I’m currently studying **Master's in Data Science**.
+- 😄 I studied **Bachelor's in Science: Economics**.
 - 🔭 I’m currently working on **data projects**. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/erica-prog/portfolio](https://github.com/erica-prog/portfolio)
