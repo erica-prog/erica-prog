@@ -5,7 +5,7 @@
 - 😄 I studied **Bachelor's in Science: Economics**.
 - 🔭 I’m currently working on **individual and group data projects**. 
 
-- 👨‍💻 All of my projects are pinned below.
+- 👨‍💻 Some of my projects are pinned below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
