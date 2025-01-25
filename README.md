@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Master's in Data Science**.
 - 😄 I studied **Bachelor's in Science: Economics**.
-- 🔭 I’m currently working on **data projects**. 
+- 🔭 I’m currently working on **individual and group data projects**. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/erica-prog/portfolio](https://github.com/erica-prog/portfolio) .
 
