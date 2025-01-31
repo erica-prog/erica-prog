@@ -5,7 +5,7 @@
 - 😄 I studied **Bachelor's in Science: Economics**.
 - 🔭 I’m currently working on **individual and group data projects**. 
 
-- 👨‍💻 Some of my projects are pinned below.
+- 👨‍💻 Some of my projects are pinned below, and listed in my main [Personal Portfolio](https://github.com/erica-prog/portfolio/tree/main).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
