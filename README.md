@@ -19,11 +19,6 @@ This project develops a sophisticated machine learning framework using AdaBoost 
 
 <br clear="left"><br>
 
-<img align="left" width="300" height="200" src="assets/medical_health_insurance.png"> **[Predicting Medical Insurance Premiums with Ensemble and Gradient Boosting ML Methods](https://github.com/erica-prog/Medicial-Premium-Prediction-using-ML)**
-
-This class project develops a ML framework using XGBoost regression and K-means clustering to predict medical insurance premiums with 80.3% accuracy (R²), achieving superior performance over traditional statistical models through advanced feature engineering of health profiles including age, BMI, chronic diseases, and surgical history. The solution combines predictive modeling with risk stratification into four distinct tiers (Low to Very High Risk) and delivers actionable insights through an interactive R Shiny dashboard (as a personal future work) that enables real-time premium calculations and personalized pricing strategies for insurance underwriters.
-
-<br clear="left"><br>
 
 <img align="left" width="300" height="200" src="assets/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
