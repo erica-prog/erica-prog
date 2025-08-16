@@ -13,14 +13,14 @@
 
 Few projects I have worked on:
 
-<img align="left" width="300" height="200" src="assets/credit_card_customer_churn.png"> **[Capital One Fictional Company Credit Card Customer Churn](https://github.com/erica-prog/capital_one_credit_risk_customer_churn)**
+<img align="left" width="300" height="200" src="assets/credit_card_customer_churn.png"> **[Credit Card Customer Churn with Ensemble methods and Deep Learning (Tensorflow & PyTorch)](https://github.com/erica-prog/capital_one_credit_risk_customer_churn)**
 
 This project develops a sophisticated machine learning framework using AdaBoost and advanced feature engineering to predict credit card customer churn with 78.61% accuracy, achieving an exceptional 89.2% ROI through targeted retention campaigns. The solution combines SMOTEENN sampling for class imbalance, comprehensive behavioral analysis, and an interactive Streamlit dashboard to provide real-time risk assessment and actionable insights that prevent customer attrition and generate $384,750 in annual net business benefit.
 
 <br clear="left"><br>
 
 
-<img align="left" width="300" height="200" src="assets/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
+<img align="left" width="300" height="200" src="assets/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest: Financial Risk Analysis of Semi-Conductor stocks](https://github.com/erica-prog/erica-prog.github.io)**
 
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions. 
 
