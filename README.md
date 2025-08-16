@@ -8,7 +8,7 @@
 - 👨‍💻 Some of my projects are pinned below, and listed in my main [Personal Portfolio](https://github.com/erica-prog/portfolio/tree/main).
 - 👨‍💻 Click here to view my [Website](https://erica-prog-website.com/).
 
-
+----
 ## Projects
 
 Few projects I have worked on:
