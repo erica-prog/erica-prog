@@ -13,6 +13,18 @@
 
 Few projects I have worked on:
 
+<img align="left" width="300" height="200" src="assets/credit_card_customer_churn.png"> **[Capital One Fictional Company Credit Card Customer Churn](https://github.com/erica-prog/capital_one_credit_risk_customer_churn)**
+
+This project develops a sophisticated machine learning framework using AdaBoost and advanced feature engineering to predict credit card customer churn with 78.61% accuracy, achieving an exceptional 89.2% ROI through targeted retention campaigns. The solution combines SMOTEENN sampling for class imbalance, comprehensive behavioral analysis, and an interactive Streamlit dashboard to provide real-time risk assessment and actionable insights that prevent customer attrition and generate $384,750 in annual net business benefit.
+
+<br clear="left"><br>
+
+<img align="left" width="300" height="200" src="assets/medical_health_insurance.png"> **[Predicting Medical Insurance Premiums with Ensemble and Gradient Boosting ML Methods](https://github.com/erica-prog/Medicial-Premium-Prediction-using-ML)**
+
+This class project develops a ML framework using XGBoost regression and K-means clustering to predict medical insurance premiums with 80.3% accuracy (R²), achieving superior performance over traditional statistical models through advanced feature engineering of health profiles including age, BMI, chronic diseases, and surgical history. The solution combines predictive modeling with risk stratification into four distinct tiers (Low to Very High Risk) and delivers actionable insights through an interactive R Shiny dashboard (as a personal future work) that enables real-time premium calculations and personalized pricing strategies for insurance underwriters.
+
+<br clear="left"><br>
+
 <img align="left" width="300" height="200" src="assets/scrollytelling.png"> **[Scrollytelling with Quarto: Close Read Prize Contest](https://github.com/erica-prog/erica-prog.github.io)**
 
 This project analyzes the financial risk of semiconductor stocks using O-GARCH and Value-at-Risk (VaR) models in R to assess stock volatility and investment risks. The findings are presented on a personal website built with the R library ‘qmd-lab/closeread’, HTML and CSS. Examining stock volatility and investment risks highlights key factors influencing market fluctuations and helps investors make informed decisions. 
@@ -37,17 +49,6 @@ The objective of this Python project is to analyze various factors affecting Air
 
 <br clear="left"><br>
 
-<img align="left" width="300" height="200" src="assets/credit_card_customer_churn.png"> **[Capital One Fictional Company Credit Card Customer Churn](https://github.com/erica-prog/capital_one_credit_risk_customer_churn)**
-
-This project develops a sophisticated machine learning framework using AdaBoost and advanced feature engineering to predict credit card customer churn with 78.61% accuracy, achieving an exceptional 89.2% ROI through targeted retention campaigns. The solution combines SMOTEENN sampling for class imbalance, comprehensive behavioral analysis, and an interactive Streamlit dashboard to provide real-time risk assessment and actionable insights that prevent customer attrition and generate $384,750 in annual net business benefit.
-
-<br clear="left"><br>
-
-<img align="left" width="300" height="200" src="assets/medical_health_insurance.png"> **[Predicting Medical Insurance Premiums with Ensemble and Gradient Boosting ML Methods](https://github.com/erica-prog/Medicial-Premium-Prediction-using-ML)**
-
-This class project develops a ML framework using XGBoost regression and K-means clustering to predict medical insurance premiums with 80.3% accuracy (R²), achieving superior performance over traditional statistical models through advanced feature engineering of health profiles including age, BMI, chronic diseases, and surgical history. The solution combines predictive modeling with risk stratification into four distinct tiers (Low to Very High Risk) and delivers actionable insights through an interactive R Shiny dashboard (as a personal future work) that enables real-time premium calculations and personalized pricing strategies for insurance underwriters.
-
-<br clear="left"><br>
 ----
 
 <h3 align="left">Connect with me:</h3>
