@@ -13,6 +13,10 @@
 
 Few projects I have worked on:
 
+<img align="left" width="300" height="200" src="assets/architectural%20diagram.png"> **[AWS Public Blockchain Analysis with Athena & PySpark](https://github.com/erica-prog/aws_public_blockchain_analysis_athena_pyspark)**
+
+This project explores Ethereum’s on-chain activity using AWS Athena, S3, and PySpark for large-scale SQL querying, data transformation, and visualization. Transaction-level data from the public blockchain lake was queried via `boto3`, processed in distributed Spark DataFrames, and visualized in Python. Final analysis quantifies consistent daily throughput (~1.6 M tx/day) and how gas markets, congestion, and wallet networks interact—demonstrating the power of cloud-based analytics pipelines for real-time blockchain intelligence.
+
 <img align="left" width="300" height="200" src="assets/credit_card_customer_churn.png"> **[Credit Card Customer Churn with Ensemble methods and Deep Learning (Tensorflow & PyTorch)](https://github.com/erica-prog/capital_one_credit_risk_customer_churn)**
 
 This project develops a sophisticated machine learning framework using AdaBoost and advanced feature engineering to predict credit card customer churn with 78.61% accuracy, achieving an exceptional 89.2% ROI through targeted retention campaigns. The solution combines SMOTEENN sampling for class imbalance, comprehensive behavioral analysis, and an interactive Streamlit dashboard to provide real-time risk assessment and actionable insights that prevent customer attrition and generate $384,750 in annual net business benefit.
