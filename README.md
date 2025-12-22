@@ -13,6 +13,11 @@
 
 Few projects I have worked on:
 
+<img align="left" width="300" height="200" src="assets/ai_trends_reddit_architectural_diagram.jpg"> **[AI Discourse at Scale: Topic, Sentiment, and Community Dynamics Across Reddit](https://github.com/erica-prog/data-engineering-AI-trends-public.git)**
+
+This project analyzed 4.2 billion Reddit comments and submissions from June 2023 to July 2024 using Apache Spark. It built a scalable ETL pipeline that filtered 445 GB of parquet archives into AI-focused subreddit clusters. Spark NLP performed sentiment analysis, topic modeling, and temporal aggregation over 14 months. Processing by subreddit and month generated summaries of comment volume, unique users, and activity spikes, revealing discourse drivers. The project provides a reproducible snapshot of digital conversations during a tech inflection point, showcasing scalable distributed data engineering for behavioral analytics with an efficient pipeline for billion-row datasets, supporting real-time community insights with PySpark, Spark NLP, parquet I/O, distributed aggregations, and an interactive website.
+
+
 <img align="left" width="300" height="200" src="assets/architectural%20diagram.png"> **[AWS Public Blockchain Analysis with Athena & PySpark](https://github.com/erica-prog/aws_public_blockchain_analysis_athena_pyspark)**
 
 This project explores Ethereum’s on-chain activity using AWS Athena, S3, and PySpark for large-scale SQL querying, data transformation, and visualization. Transaction-level data from the public blockchain lake was queried via `boto3`, processed in distributed Spark DataFrames, and visualized in Python. Final analysis quantifies consistent daily throughput (~1.6 M tx/day) and how gas markets, congestion, and wallet networks interact—demonstrating the power of cloud-based analytics pipelines for real-time blockchain intelligence.
