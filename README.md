@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erika 👋</h1>
-<h3 align="center">A student data scientist, researcher, data analyst </h3>
+<h3 align="center">A new-grad data scientist, researcher, data analyst </h3>
 
 - 🌱 I studied **Master's in Data Science**.
 - 😄 I studied **Bachelor's in Science: Economics**.
